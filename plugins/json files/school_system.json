@@ -1,0 +1,396 @@
+{
+    "Fresh": [
+      [
+        "sem 1"
+      ],
+      [
+        "sem 2"
+      ]
+    ],
+    "Engineering": {
+      "SOEEC": {
+        "2nd_1st": [],
+        "CSE": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        },
+        "ECE": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        },
+        "EPCE": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        }
+      },
+      "SOCWA": {
+        "2nd_1st": [],
+        "WAT": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        },
+        "CIV": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        },
+        "ARC": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        }
+      },
+      "SOMCM": {
+        "2nd_1st": [],
+        "CHE": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        },
+        "MAT": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        },
+        "MEC": {
+          "2nd Year": [
+            [
+              "sem 2"
+            ]
+          ],
+          "3rd Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "4th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ],
+          "5th Year": [
+            [
+              "sem 1"
+            ],
+            [
+              "sem 2"
+            ]
+          ]
+        }
+      }
+    },
+    "Applied": {
+      "2nd_1st": [],
+      "PHY": {
+        "2nd Year": [
+          [
+            "sem 2"
+          ]
+        ],
+        "3rd Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ],
+        "4th Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ],
+        "5th Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ]
+      },
+      "BIO": {
+        "2nd Year": [
+          [
+            "sem 2"
+          ]
+        ],
+        "3rd Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ],
+        "4th Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ],
+        "5th Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ]
+      },
+      "CHE": {
+        "2nd Year": [
+          [
+            "sem 2"
+          ]
+        ],
+        "3rd Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ],
+        "4th Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ],
+        "5th Year": [
+          [
+            "sem 1"
+          ],
+          [
+            "sem 2"
+          ]
+        ]
+      }
+    }
+  }
